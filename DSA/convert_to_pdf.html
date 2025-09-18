@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSA Study Guide - Senior/Staff Engineer Interview Prep</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+            border-bottom: 2px solid #ecf0f1;
+            padding-bottom: 5px;
+        }
+        h3 {
+            color: #7f8c8d;
+            margin-top: 20px;
+        }
+        pre {
+            background: #f4f4f4;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 10px;
+            overflow-x: auto;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .toc {
+            background: #f9f9f9;
+            border: 1px solid #e1e1e1;
+            padding: 20px;
+            margin-bottom: 30px;
+            border-radius: 5px;
+        }
+        .toc h2 {
+            margin-top: 0;
+        }
+        .toc ul {
+            list-style-type: none;
+            padding-left: 20px;
+        }
+        .toc a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        .toc a:hover {
+            text-decoration: underline;
+        }
+        @media print {
+            body {
+                max-width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+            pre {
+                white-space: pre-wrap;
+                word-wrap: break-word;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="toc">
+        <h2>Table of Contents</h2>
+        <ul>
+            <li><a href="#patterns">Core Patterns (20 patterns)</a></li>
+            <li><a href="#tips">Interview Tips & Strategy</a></li>
+            <li><a href="#schedule">Practice Schedule</a></li>
+            <li><a href="#resources">Resources</a></li>
+        </ul>
+    </div>
+
+    <h1>Data Structures & Algorithms Study Guide</h1>
+    <p><strong>For Senior/Staff Engineer Interview Preparation</strong></p>
+
+    <p>This comprehensive guide contains:</p>
+    <ul>
+        <li>✅ 20 essential DSA patterns with templates</li>
+        <li>✅ 100+ problems organized by difficulty</li>
+        <li>✅ Time & space complexity analysis</li>
+        <li>✅ Common mistakes and how to avoid them</li>
+        <li>✅ 12-week structured study plan</li>
+        <li>✅ Interview tips and strategies</li>
+    </ul>
+
+    <h2 id="patterns">Core Patterns Overview</h2>
+    <ol>
+        <li><strong>Two Pointers</strong> - Array/string problems with sorted data</li>
+        <li><strong>Sliding Window</strong> - Contiguous subarray/substring problems</li>
+        <li><strong>Fast & Slow Pointers</strong> - Cycle detection in linked lists</li>
+        <li><strong>Merge Intervals</strong> - Overlapping interval problems</li>
+        <li><strong>Cyclic Sort</strong> - Arrays with numbers in given range</li>
+        <li><strong>In-place LinkedList Reversal</strong> - Reversing lists without extra space</li>
+        <li><strong>Tree BFS</strong> - Level-order traversal problems</li>
+        <li><strong>Tree DFS</strong> - Path sum and tree traversal</li>
+        <li><strong>Two Heaps</strong> - Finding median in stream</li>
+        <li><strong>Subsets</strong> - Generating combinations/permutations</li>
+        <li><strong>Modified Binary Search</strong> - Search in sorted/rotated arrays</li>
+        <li><strong>Top K Elements</strong> - Heap-based K element problems</li>
+        <li><strong>K-way Merge</strong> - Merging multiple sorted lists</li>
+        <li><strong>Dynamic Programming</strong> - Optimization and counting problems</li>
+        <li><strong>Topological Sort</strong> - Dependency and scheduling problems</li>
+        <li><strong>Graph Algorithms</strong> - BFS/DFS and connected components</li>
+        <li><strong>Backtracking</strong> - Constraint satisfaction problems</li>
+        <li><strong>Monotonic Stack</strong> - Next greater/smaller element</li>
+        <li><strong>Union Find</strong> - Connected components and cycle detection</li>
+        <li><strong>Trie</strong> - Prefix matching and word search</li>
+    </ol>
+
+    <h2 id="tips">Key Interview Strategies</h2>
+    <h3>The UMPIRE Method</h3>
+    <ul>
+        <li><strong>U</strong>nderstand - Clarify the problem</li>
+        <li><strong>M</strong>atch - Identify the pattern</li>
+        <li><strong>P</strong>lan - Design your approach</li>
+        <li><strong>I</strong>mplement - Write clean code</li>
+        <li><strong>R</strong>eview - Test with examples</li>
+        <li><strong>E</strong>valuate - Analyze complexity</li>
+    </ul>
+
+    <h3>Time Complexity Quick Reference</h3>
+    <table>
+        <tr>
+            <th>Pattern</th>
+            <th>Typical Time</th>
+            <th>Typical Space</th>
+        </tr>
+        <tr>
+            <td>Two Pointers</td>
+            <td>O(n)</td>
+            <td>O(1)</td>
+        </tr>
+        <tr>
+            <td>Sliding Window</td>
+            <td>O(n)</td>
+            <td>O(k)</td>
+        </tr>
+        <tr>
+            <td>Binary Search</td>
+            <td>O(log n)</td>
+            <td>O(1)</td>
+        </tr>
+        <tr>
+            <td>BFS/DFS</td>
+            <td>O(V + E)</td>
+            <td>O(V)</td>
+        </tr>
+        <tr>
+            <td>Dynamic Programming</td>
+            <td>O(n²)</td>
+            <td>O(n)</td>
+        </tr>
+        <tr>
+            <td>Backtracking</td>
+            <td>O(2ⁿ)</td>
+            <td>O(n)</td>
+        </tr>
+    </table>
+
+    <h2 id="schedule">12-Week Study Plan</h2>
+    <p><strong>Week 1-2:</strong> Arrays & Strings (Two Pointers, Sliding Window)</p>
+    <p><strong>Week 3-4:</strong> Linked Lists & Stacks/Queues</p>
+    <p><strong>Week 5-6:</strong> Trees & Graphs (BFS, DFS)</p>
+    <p><strong>Week 7-8:</strong> Dynamic Programming</p>
+    <p><strong>Week 9-10:</strong> Advanced Topics (Heaps, Tries, Union Find)</p>
+    <p><strong>Week 11-12:</strong> Mock Interviews & Review</p>
+
+    <h2 id="resources">Recommended Resources</h2>
+    <ul>
+        <li><strong>Practice:</strong> LeetCode, HackerRank, Codeforces</li>
+        <li><strong>Books:</strong> CTCI, EPI, System Design Interview</li>
+        <li><strong>Videos:</strong> NeetCode, Back to Back SWE</li>
+        <li><strong>Mock Interviews:</strong> Pramp, Interviewing.io</li>
+    </ul>
+
+    <hr>
+    <p><em>Note: The complete markdown file (dsa_study_guide.md) contains all 20 patterns with detailed explanations, code templates, 100+ problems with solutions, and comprehensive interview preparation material. Use your preferred markdown viewer or editor to access the full content.</em></p>
+
+    <p style="text-align: center; margin-top: 40px;">
+        <strong>Best of luck with your senior/staff engineer interviews! 🚀</strong>
+    </p>
+</body>
+</html>
