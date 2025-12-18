@@ -15,7 +15,7 @@ Based on your resume for Staff/Senior Engineer roles at LinkedIn, Uber, and simi
 **What to cover**:
 - High-level: Multi-tenant, country-agnostic microservices
 - Data flow: Invoice ingestion → validation → compliance processing → delivery
-- Scale: 100M+/country, ~2000 RPM
+- Scale: 100M+/country monthly
 - Key components: PEPPOL Access Point, GST services, metrics framework
 **Time**: Be ready for 2-min overview AND 15-min deep dive
 
@@ -189,7 +189,7 @@ Based on your resume for Staff/Senior Engineer roles at LinkedIn, Uber, and simi
 **What to cover**:
 - Scope: You operate beyond your immediate team (metrics framework, architectural patterns)
 - Scale: You've built for massive scale (100M+/country, 40+ countries)
-- Leadership: You've scaled a team 4x, mentored 8+ engineers
+- Leadership: You've scaled a team ~4x (from ~5 to ~20 engineers), mentored 10+ engineers
 - Influence: Your patterns are adopted org-wide
 - Innovation: LLM automation shows forward thinking
 - Ambiguity: You've defined problems (country launch framework), not just solved them
@@ -299,11 +299,14 @@ Based on your resume for Staff/Senior Engineer roles at LinkedIn, Uber, and simi
 - How did you achieve accreditation? What was the process?
 - How do you handle PEPPOL message validation failures?
 
-### GST Re-architecture
+### GST Re-architecture (~200M+ invoices/month)
 - What was wrong with the original GST interaction services?
 - How did you achieve 70% throughput improvement?
 - How did you reduce errors from 10% to <0.1%?
-- What circuit breaker pattern did you implement? Why?
+- How did you handle OOM errors at peak load?
+- How did you eliminate slowness causing timeouts?
+- How did async flow segregation in different pods help?
+- What was your pod allocation strategy?
 - What retry strategies do you use?
 - How do you handle government API rate limits?
 
@@ -649,11 +652,11 @@ Based on your resume for Staff/Senior Engineer roles at LinkedIn, Uber, and simi
 
 | Topic | Story | Key Points |
 |-------|-------|------------|
-| **Scale** | E-Invoicing Platform | 100M+/country, multi-tenant, 40+ country roadmap |
+| **Scale** | E-Invoicing Platform | 100M+/country monthly, multi-tenant, 40+ country roadmap |
 | **Architecture** | Multi-tenant design | Regulatory isolation, shared infra, linear scaling |
 | **Innovation** | LLM country launch | 2-week launches, Belgium/Germany/UAE |
 | **Optimization** | Lambda cold start | 5s→<1s, pattern reused across projects |
-| **Team Growth** | Clear team scaling | 5→20 engineers, processes, mentorship |
+| **Team Growth** | Clear team scaling | ~4x growth (5→20 engineers), 10+ mentored |
 | **Greenfield** | Amazon Go platform | End-to-end design, associate journey |
 | **Database Decision** | DocumentDB selection | Flexible schema, evolving access patterns |
 | **Cross-team** | EU internationalization | Amazon vendor platform, collaboration |

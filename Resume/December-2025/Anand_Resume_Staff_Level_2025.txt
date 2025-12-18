@@ -23,7 +23,6 @@ Technical Leadership & Architecture
 - Grew and lead engineering team ~4x (from ~5 to ~20 engineers) while architecting Clear's global E-Invoicing platform, processing 100M+ invoices monthly per country, with architecture designed to scale linearly as new markets launch across EU, MEA, and SEA regions.
 - Designed multi-tenant, country-agnostic microservices architecture enabling multiple countries to operate on shared infrastructure while maintaining regulatory isolation—reducing infrastructure costs and time-to-market for new country launches from months to weeks.
 - Developed rapid country launch framework leveraging LLM-assisted automation, reducing country deployment timeline to under 2 weeks. Successfully executed launches in Belgium, Germany, and UAE using this playbook, with 40+ country rollouts planned.
-- Built PEPPOL-compliant Access Point services for cross-border invoice exchange, enabling Clear's accreditation as a certified provider across multiple international markets.
 
 Platform Innovation & Organizational Impact
 - Created reusable async metrics publishing framework for real-time workflow observability, subsequently adopted by multiple teams across Clear, establishing an organization-wide standard for service monitoring and dashboards.
@@ -41,12 +40,10 @@ Vendor Inbound Tracking Platform (Lead Engineer)
 - Solved Lambda cold start latency by moving database connection establishment to initialization phase, reducing P99 from 5+ seconds to under 1 second—pattern later reused across other projects including Amazon Go.
 - Evaluated multiple database options (SQL, DynamoDB, DocumentDB) and selected DocumentDB for flexible schema supporting evolving access patterns.
 - Led EU internationalization by solving cross-regional integration challenges, developing region-agnostic components, and executing rollouts with EU teams.
-- Mentored junior engineers on the team, conducting code reviews and guiding architectural decisions.
 
 Amazon Go - Associate Management Platform (Greenfield)
-- Designed and built end-to-end associate management platform from scratch, covering the complete associate journey: manual intervention portal, performance tracking with randomized assessments, and personalized course assignments to improve capabilities.
-- Architected serverless full-stack application (S3, CloudFront, Cognito, Lambda), applying cold start optimizations pioneered on Vendor Portal.
-- Built CI/CD pipeline with Infrastructure as Code (Terraform/CloudFormation), reducing deployment cycles from 2 days to 1 hour.
+- Designed end-to-end associate management platform from scratch: intervention portal, performance tracking with randomized assessments, and personalized training assignments.
+- Built serverless full-stack (S3, CloudFront, Cognito, Lambda). CI/CD pipeline reduced deployments from 2 days to 1 hour.
 
 
 Software Engineer
@@ -62,8 +59,8 @@ Technical Skills
 Languages: Java, Python, TypeScript
 Architecture: Distributed Systems, Microservices, Event-Driven, Serverless
 Cloud: AWS (Lambda, EC2, DynamoDB, SQS/SNS, S3, CloudFront), Kubernetes, Docker
-Databases: MongoDB, DocumentDB, DynamoDB, PostgreSQL, DuckDB, ClickHouse, Database Design
-Infrastructure: Terraform, CloudFormation, CI/CD (Jenkins, GitHub Actions)
+Databases: MongoDB, DocumentDB, DynamoDB, PostgreSQL, DuckDB, ClickHouse
+Infrastructure: Terraform, AWS CFN, CI/CD (Jenkins, GitHub Actions)
 
 
 Education
