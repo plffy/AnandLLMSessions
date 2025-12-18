@@ -1,0 +1,76 @@
+Anand Mohan
+
+anand.mohan164@outlook.com
++91-7070265861
+Bengaluru, India
+https://www.linkedin.com/in/plffy/
+
+------------------------
+Staff Software Engineer
+------------------------
+
+Technical leader specializing in architecting and scaling high-throughput distributed systems built for global scale. Proven track record leading engineering teams through complex multi-country platform expansions, designing multi-tenant architectures that scale linearly with market growth, and establishing technical patterns adopted across organizations. Combines deep systems expertise with hands-on leadership to deliver business-critical platforms at scale.
+
+
+Work Experience
+------------------------
+
+Tech Lead / Senior Software Engineer
+Clear
+07/2023 - Present | Bengaluru, India
+
+Technical Leadership & Architecture
+- Lead a growing team (~5 to ~20 engineers) to architect and deliver Clear's global E-Invoicing platform, processing 100M+ invoices monthly per country at ~2000 RPM, with architecture designed to scale linearly as new markets launch across EU, MEA, and SEA regions.
+- Designed multi-tenant, country-agnostic microservices architecture enabling multiple countries to operate on shared infrastructure while maintaining regulatory isolation—reducing infrastructure costs and time-to-market for new country launches from months to weeks.
+- Developed rapid country launch framework leveraging LLM-assisted automation, reducing country deployment timeline to under 2 weeks. Successfully executed launches in Belgium, Germany, and UAE using this playbook, with 40+ country rollouts planned.
+- Built PEPPOL-compliant Access Point services for cross-border invoice exchange, enabling Clear's accreditation as a certified provider across multiple international markets.
+
+Platform Innovation & Organizational Impact
+- Created reusable async metrics publishing framework for real-time workflow observability, subsequently adopted by multiple teams across Clear, establishing an organization-wide standard for service monitoring and dashboards.
+- Re-architected GST interaction services, improving processing throughput by 70% and reducing system error rates from 10% to <0.1% through enhanced error tracking, retry mechanisms, and circuit breaker patterns.
+- Established technical leadership practices including architectural review processes, code quality standards, and mentorship programs for 8+ engineers, elevating overall engineering excellence across distributed teams.
+
+
+Software Development Engineer
+Amazon
+04/2019 - 03/2023 | Gurugram, India
+
+Vendor Inbound Tracking Platform (Lead Engineer)
+- Led design and development of real-time vendor shipment tracking platform, replacing manual processes that took 10+ days with near real-time visibility, enabling faster dispute resolution and improving experience for Amazon's global vendor ecosystem.
+- Architected end-to-end system: event-driven ingestion pipeline (SNS/SQS with EC2 workers), serverless API layer (Lambda + API Gateway), and React frontend via CloudFront.
+- Solved Lambda cold start latency by moving database connection establishment to initialization phase, reducing P99 from 5+ seconds to under 1 second—pattern later reused across other projects including Amazon Go.
+- Selected DocumentDB over DynamoDB after evaluating multiple database options, choosing flexible schema and query patterns to support evolving access requirements.
+- Led internationalization effort expanding the platform to EU regions, collaborating with cross-regional product and engineering teams to standardize data formats and generalize components for multi-region deployment.
+- Mentored junior engineers on the team, conducting code reviews and guiding architectural decisions.
+
+Amazon Go - Associate Management Platform (Greenfield)
+- Designed and built end-to-end associate management platform from scratch, covering the complete associate journey: manual intervention portal, performance tracking with randomized assessments, and personalized course assignments to improve capabilities.
+- Architected serverless full-stack application (S3, CloudFront, Cognito, Lambda), applying cold start optimizations pioneered on Vendor Portal.
+- Built CI/CD pipeline with Infrastructure as Code (Terraform/CloudFormation), reducing deployment cycles from 2 days to 1 hour.
+
+
+Software Engineer
+Reliance Jio
+07/2018 - 04/2019
+
+- Developed automation framework for web-based portal operations, achieving 70% reduction in execution time and establishing foundation for continuous testing practices.
+
+
+Technical Skills
+------------------------
+
+Languages: Java, Python, TypeScript
+Architecture: Distributed Systems, Microservices, Event-Driven, Serverless
+Cloud: AWS (Lambda, EC2, DynamoDB, SQS/SNS, S3, CloudFront), Kubernetes, Docker
+Data: MongoDB, DocumentDB, MySQL, DynamoDB, Database Design
+Infrastructure: Terraform, CloudFormation, CI/CD (Jenkins, GitHub Actions)
+
+
+Education
+------------------------
+
+B.E. Computer Science & Engineering
+Birla Institute of Technology, Mesra
+2014 - 2018
+
+

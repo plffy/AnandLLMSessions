@@ -1,0 +1,675 @@
+========================================================================================================================
+DETAILED VOUCHER EXPENSE ANALYSIS - BILLING CYCLE BASIS (17th to 16th of Following Month)
+========================================================================================================================
+
+
+========================================================================================================================
+BILLING CYCLE 1: October 2024 17 - November 2024 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 11,000.00
+  Number of Transactions: 6
+  Average Transaction Value: INR 1,833.33
+  Highest Transaction: INR 5,000.00
+  Lowest Transaction: INR 1,000.00
+
+MERCHANT BREAKDOWN:
+  Amazon Gift Code
+    Total: INR 9,000.00 | Transactions: 5 | Avg: INR 1,800.00 | 81.8%
+  Myntra
+    Total: INR 2,000.00 | Transactions: 1 | Avg: INR 2,000.00 | 18.2%
+
+TRANSACTION DETAILS:
+  Amazon Gift Code:
+     1. 18/10/2024 - INR 1,000.00
+     2. 18/10/2024 - INR 1,000.00
+     3. 18/10/2024 - INR 1,000.00
+     4. 19/10/2024 - INR 5,000.00
+     5. 25/10/2024 - INR 1,000.00
+  Myntra:
+     1. 25/10/2024 - INR 2,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Amazon Gift Code accounts for 81.8% of spending (INR 9,000.00)
+  2. Secondary merchant: Myntra accounts for 18.2% of spending (INR 2,000.00)
+  3. High-value transactions (INR 5000+): 1 transactions totaling INR 5,000.00
+  4. Top 3 merchants concentration: 100.0% of total spending
+
+========================================================================================================================
+BILLING CYCLE 2: December 2024 17 - January 2025 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 5,000.00
+  Number of Transactions: 1
+  Average Transaction Value: INR 5,000.00
+
+MERCHANT BREAKDOWN:
+  Myntra
+    Total: INR 5,000.00 | Transactions: 1 | Avg: INR 5,000.00 | 100.0%
+
+TRANSACTION DETAILS:
+  Myntra:
+     1. 14/01/2025 - INR 5,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Myntra accounts for 100.0% of spending (INR 5,000.00)
+  3. High-value transactions (INR 5000+): 1 transactions totaling INR 5,000.00
+  4. Top 3 merchants concentration: 100.0% of total spending
+
+========================================================================================================================
+BILLING CYCLE 3: January 2025 17 - February 2025 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 30,000.00
+  Number of Transactions: 12
+  Average Transaction Value: INR 2,500.00
+  Highest Transaction: INR 5,000.00
+  Lowest Transaction: INR 1,000.00
+
+MERCHANT BREAKDOWN:
+  Myntra
+    Total: INR 17,000.00 | Transactions: 4 | Avg: INR 4,250.00 | 56.7%
+  Amazon Shopping Voucher
+    Total: INR 6,000.00 | Transactions: 3 | Avg: INR 2,000.00 | 20.0%
+  Amazon Gift Code
+    Total: INR 4,000.00 | Transactions: 2 | Avg: INR 2,000.00 | 13.3%
+  Zomato
+    Total: INR 3,000.00 | Transactions: 3 | Avg: INR 1,000.00 | 10.0%
+
+TRANSACTION DETAILS:
+  Amazon Gift Code:
+     1. 08/02/2025 - INR 2,000.00
+     2. 14/02/2025 - INR 2,000.00
+  Amazon Shopping Voucher:
+     1. 31/01/2025 - INR 2,000.00
+     2. 31/01/2025 - INR 2,000.00
+     3. 08/02/2025 - INR 2,000.00
+  Myntra:
+     1. 17/01/2025 - INR 5,000.00
+     2. 22/01/2025 - INR 5,000.00
+     3. 22/01/2025 - INR 2,000.00
+     4. 22/01/2025 - INR 5,000.00
+  Zomato:
+     1. 26/01/2025 - INR 1,000.00
+     2. 26/01/2025 - INR 1,000.00
+     3. 26/01/2025 - INR 1,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Myntra accounts for 56.7% of spending (INR 17,000.00)
+  2. Secondary merchant: Amazon Shopping Voucher accounts for 20.0% of spending (INR 6,000.00)
+  3. High-value transactions (INR 5000+): 3 transactions totaling INR 15,000.00
+  4. Top 3 merchants concentration: 90.0% of total spending
+
+========================================================================================================================
+BILLING CYCLE 4: February 2025 17 - March 2025 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 18,000.00
+  Number of Transactions: 10
+  Average Transaction Value: INR 1,800.00
+  Highest Transaction: INR 5,000.00
+  Lowest Transaction: INR 1,000.00
+
+MERCHANT BREAKDOWN:
+  Amazon Gift Code
+    Total: INR 18,000.00 | Transactions: 10 | Avg: INR 1,800.00 | 100.0%
+
+TRANSACTION DETAILS:
+  Amazon Gift Code:
+     1. 17/02/2025 - INR 2,000.00
+     2. 21/02/2025 - INR 2,000.00
+     3. 01/03/2025 - INR 1,000.00
+     4. 01/03/2025 - INR 1,000.00
+     5. 01/03/2025 - INR 1,000.00
+     6. 01/03/2025 - INR 1,000.00
+     7. 01/03/2025 - INR 1,000.00
+     8. 01/03/2025 - INR 2,000.00
+     9. 01/03/2025 - INR 2,000.00
+    10. 08/03/2025 - INR 5,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Amazon Gift Code accounts for 100.0% of spending (INR 18,000.00)
+  3. High-value transactions (INR 5000+): 1 transactions totaling INR 5,000.00
+  4. Top 3 merchants concentration: 100.0% of total spending
+
+========================================================================================================================
+BILLING CYCLE 5: March 2025 17 - April 2025 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 41,000.00
+  Number of Transactions: 13
+  Average Transaction Value: INR 3,153.85
+  Highest Transaction: INR 5,000.00
+  Lowest Transaction: INR 2,000.00
+
+MERCHANT BREAKDOWN:
+  Amazon Gift Code
+    Total: INR 25,000.00 | Transactions: 5 | Avg: INR 5,000.00 | 61.0%
+  Amazon Shopping Voucher
+    Total: INR 8,000.00 | Transactions: 4 | Avg: INR 2,000.00 | 19.5%
+  Swiggy
+    Total: INR 4,000.00 | Transactions: 2 | Avg: INR 2,000.00 | 9.8%
+  Amazon Fresh
+    Total: INR 4,000.00 | Transactions: 2 | Avg: INR 2,000.00 | 9.8%
+
+TRANSACTION DETAILS:
+  Amazon Fresh:
+     1. 15/04/2025 - INR 2,000.00
+     2. 15/04/2025 - INR 2,000.00
+  Amazon Gift Code:
+     1. 25/03/2025 - INR 5,000.00
+     2. 25/03/2025 - INR 5,000.00
+     3. 31/03/2025 - INR 5,000.00
+     4. 04/04/2025 - INR 5,000.00
+     5. 04/04/2025 - INR 5,000.00
+  Amazon Shopping Voucher:
+     1. 22/03/2025 - INR 2,000.00
+     2. 15/04/2025 - INR 2,000.00
+     3. 15/04/2025 - INR 2,000.00
+     4. 15/04/2025 - INR 2,000.00
+  Swiggy:
+     1. 07/04/2025 - INR 2,000.00
+     2. 07/04/2025 - INR 2,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Amazon Gift Code accounts for 61.0% of spending (INR 25,000.00)
+  2. Secondary merchant: Amazon Shopping Voucher accounts for 19.5% of spending (INR 8,000.00)
+  3. High-value transactions (INR 5000+): 5 transactions totaling INR 25,000.00
+  4. Top 3 merchants concentration: 90.2% of total spending
+
+========================================================================================================================
+BILLING CYCLE 6: April 2025 17 - May 2025 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 66,500.00
+  Number of Transactions: 39
+  Average Transaction Value: INR 1,705.13
+  Highest Transaction: INR 10,000.00
+  Lowest Transaction: INR 250.00
+
+MERCHANT BREAKDOWN:
+  Myntra
+    Total: INR 27,000.00 | Transactions: 5 | Avg: INR 5,400.00 | 40.6%
+  Amazon Fresh
+    Total: INR 13,000.00 | Transactions: 9 | Avg: INR 1,444.44 | 19.5%
+  Flipkart
+    Total: INR 9,000.00 | Transactions: 12 | Avg: INR 750.00 | 13.5%
+  Swiggy
+    Total: INR 9,000.00 | Transactions: 6 | Avg: INR 1,500.00 | 13.5%
+  Amazon Shopping Voucher
+    Total: INR 5,000.00 | Transactions: 3 | Avg: INR 1,666.67 | 7.5%
+  Amazon Gift Code
+    Total: INR 2,000.00 | Transactions: 1 | Avg: INR 2,000.00 | 3.0%
+  Zomato
+    Total: INR 1,000.00 | Transactions: 1 | Avg: INR 1,000.00 | 1.5%
+  OLA
+    Total: INR 500.00 | Transactions: 2 | Avg: INR 250.00 | 0.8%
+
+TRANSACTION DETAILS:
+  Amazon Fresh:
+     1. 17/04/2025 - INR 2,000.00
+     2. 29/04/2025 - INR 1,000.00
+     3. 29/04/2025 - INR 1,000.00
+     4. 29/04/2025 - INR 1,000.00
+     5. 29/04/2025 - INR 1,000.00
+     6. 11/05/2025 - INR 1,000.00
+     7. 11/05/2025 - INR 1,000.00
+     8. 13/05/2025 - INR 2,500.00
+     9. 14/05/2025 - INR 2,500.00
+  Amazon Gift Code:
+     1. 29/04/2025 - INR 2,000.00
+  Amazon Shopping Voucher:
+     1. 29/04/2025 - INR 1,000.00
+     2. 29/04/2025 - INR 2,000.00
+     3. 29/04/2025 - INR 2,000.00
+  Flipkart:
+     1. 17/04/2025 - INR 1,000.00
+     2. 17/04/2025 - INR 1,000.00
+     3. 17/04/2025 - INR 1,000.00
+     4. 17/04/2025 - INR 1,000.00
+     5. 03/05/2025 - INR   500.00
+     6. 03/05/2025 - INR   500.00
+     7. 03/05/2025 - INR   500.00
+     8. 03/05/2025 - INR   500.00
+     9. 03/05/2025 - INR   500.00
+    10. 03/05/2025 - INR   500.00
+    11. 11/05/2025 - INR 1,000.00
+    12. 11/05/2025 - INR 1,000.00
+  Myntra:
+     1. 29/04/2025 - INR 2,000.00
+     2. 01/05/2025 - INR 10,000.00
+     3. 01/05/2025 - INR 5,000.00
+     4. 01/05/2025 - INR 5,000.00
+     5. 01/05/2025 - INR 5,000.00
+  OLA:
+     1. 15/05/2025 - INR   250.00
+     2. 15/05/2025 - INR   250.00
+  Swiggy:
+     1. 18/04/2025 - INR 1,000.00
+     2. 18/04/2025 - INR 1,000.00
+     3. 20/04/2025 - INR 2,000.00
+     4. 21/04/2025 - INR 1,000.00
+     5. 28/04/2025 - INR 2,000.00
+     6. 28/04/2025 - INR 2,000.00
+  Zomato:
+     1. 29/04/2025 - INR 1,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Myntra accounts for 40.6% of spending (INR 27,000.00)
+  2. Secondary merchant: Amazon Fresh accounts for 19.5% of spending (INR 13,000.00)
+  3. High-value transactions (INR 5000+): 4 transactions totaling INR 25,000.00
+  4. Top 3 merchants concentration: 73.7% of total spending
+
+========================================================================================================================
+BILLING CYCLE 7: May 2025 17 - June 2025 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 65,000.00
+  Number of Transactions: 35
+  Average Transaction Value: INR 1,857.14
+  Highest Transaction: INR 5,000.00
+  Lowest Transaction: INR 1,000.00
+
+MERCHANT BREAKDOWN:
+  Amazon Fresh
+    Total: INR 35,000.00 | Transactions: 17 | Avg: INR 2,058.82 | 53.8%
+  Amazon Gift Code
+    Total: INR 11,000.00 | Transactions: 7 | Avg: INR 1,571.43 | 16.9%
+  Swiggy
+    Total: INR 10,000.00 | Transactions: 6 | Avg: INR 1,666.67 | 15.4%
+  Amazon Shopping Voucher
+    Total: INR 9,000.00 | Transactions: 5 | Avg: INR 1,800.00 | 13.8%
+
+TRANSACTION DETAILS:
+  Amazon Fresh:
+     1. 06/06/2025 - INR 2,000.00
+     2. 06/06/2025 - INR 2,000.00
+     3. 06/06/2025 - INR 2,000.00
+     4. 09/06/2025 - INR 5,000.00
+     5. 09/06/2025 - INR 2,000.00
+     6. 09/06/2025 - INR 2,000.00
+     7. 09/06/2025 - INR 2,500.00
+     8. 09/06/2025 - INR 2,500.00
+     9. 09/06/2025 - INR 2,500.00
+    10. 09/06/2025 - INR 2,500.00
+    11. 09/06/2025 - INR 2,500.00
+    12. 09/06/2025 - INR 2,500.00
+    13. 09/06/2025 - INR 1,000.00
+    14. 09/06/2025 - INR 1,000.00
+    15. 12/06/2025 - INR 1,000.00
+    16. 14/06/2025 - INR 1,000.00
+    17. 14/06/2025 - INR 1,000.00
+  Amazon Gift Code:
+     1. 23/05/2025 - INR 1,000.00
+     2. 25/05/2025 - INR 1,000.00
+     3. 05/06/2025 - INR 2,000.00
+     4. 08/06/2025 - INR 2,000.00
+     5. 08/06/2025 - INR 2,000.00
+     6. 08/06/2025 - INR 2,000.00
+     7. 09/06/2025 - INR 1,000.00
+  Amazon Shopping Voucher:
+     1. 09/06/2025 - INR 2,000.00
+     2. 09/06/2025 - INR 2,000.00
+     3. 09/06/2025 - INR 2,000.00
+     4. 09/06/2025 - INR 2,000.00
+     5. 16/06/2025 - INR 1,000.00
+  Swiggy:
+     1. 17/05/2025 - INR 2,000.00
+     2. 17/05/2025 - INR 1,000.00
+     3. 23/05/2025 - INR 1,000.00
+     4. 05/06/2025 - INR 2,000.00
+     5. 05/06/2025 - INR 2,000.00
+     6. 12/06/2025 - INR 2,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Amazon Fresh accounts for 53.8% of spending (INR 35,000.00)
+  2. Secondary merchant: Amazon Gift Code accounts for 16.9% of spending (INR 11,000.00)
+  3. High-value transactions (INR 5000+): 1 transactions totaling INR 5,000.00
+  4. Top 3 merchants concentration: 86.2% of total spending
+
+========================================================================================================================
+BILLING CYCLE 8: June 2025 17 - July 2025 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 80,500.00
+  Number of Transactions: 39
+  Average Transaction Value: INR 2,064.10
+  Highest Transaction: INR 5,000.00
+  Lowest Transaction: INR 500.00
+
+MERCHANT BREAKDOWN:
+  Amazon Fresh
+    Total: INR 57,500.00 | Transactions: 29 | Avg: INR 1,982.76 | 71.4%
+  Swiggy
+    Total: INR 16,000.00 | Transactions: 8 | Avg: INR 2,000.00 | 19.9%
+  Amazon Gift Code
+    Total: INR 7,000.00 | Transactions: 2 | Avg: INR 3,500.00 | 8.7%
+
+TRANSACTION DETAILS:
+  Amazon Fresh:
+     1. 17/06/2025 - INR 2,000.00
+     2. 17/06/2025 - INR 2,000.00
+     3. 17/06/2025 - INR 2,000.00
+     4. 17/06/2025 - INR 2,500.00
+     5. 17/06/2025 - INR 2,500.00
+     6. 17/06/2025 - INR 2,500.00
+     7. 17/06/2025 - INR 2,500.00
+     8. 17/06/2025 - INR 1,000.00
+     9. 17/06/2025 - INR 1,000.00
+    10. 17/06/2025 - INR 1,000.00
+    11. 17/06/2025 - INR 2,500.00
+    12. 17/06/2025 - INR   500.00
+    13. 18/06/2025 - INR   500.00
+    14. 22/06/2025 - INR 2,000.00
+    15. 22/06/2025 - INR 1,000.00
+    16. 25/06/2025 - INR 1,000.00
+    17. 28/06/2025 - INR 2,000.00
+    18. 28/06/2025 - INR 2,500.00
+    19. 06/07/2025 - INR 2,500.00
+    20. 06/07/2025 - INR 2,500.00
+    21. 08/07/2025 - INR 2,000.00
+    22. 08/07/2025 - INR 2,000.00
+    23. 14/07/2025 - INR 2,500.00
+    24. 14/07/2025 - INR 2,500.00
+    25. 14/07/2025 - INR 2,500.00
+    26. 14/07/2025 - INR 2,500.00
+    27. 14/07/2025 - INR 2,500.00
+    28. 15/07/2025 - INR 2,500.00
+    29. 15/07/2025 - INR 2,500.00
+  Amazon Gift Code:
+     1. 06/07/2025 - INR 2,000.00
+     2. 15/07/2025 - INR 5,000.00
+  Swiggy:
+     1. 18/06/2025 - INR 2,000.00
+     2. 21/06/2025 - INR 2,000.00
+     3. 21/06/2025 - INR 2,000.00
+     4. 21/06/2025 - INR 2,000.00
+     5. 21/06/2025 - INR 2,000.00
+     6. 22/06/2025 - INR 2,000.00
+     7. 22/06/2025 - INR 2,000.00
+     8. 25/06/2025 - INR 2,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Amazon Fresh accounts for 71.4% of spending (INR 57,500.00)
+  2. Secondary merchant: Swiggy accounts for 19.9% of spending (INR 16,000.00)
+  3. High-value transactions (INR 5000+): 1 transactions totaling INR 5,000.00
+  4. Top 3 merchants concentration: 100.0% of total spending
+
+========================================================================================================================
+BILLING CYCLE 9: July 2025 17 - August 2025 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 50,000.00
+  Number of Transactions: 36
+  Average Transaction Value: INR 1,388.89
+  Highest Transaction: INR 5,000.00
+  Lowest Transaction: INR 500.00
+
+MERCHANT BREAKDOWN:
+  Myntra
+    Total: INR 30,000.00 | Transactions: 27 | Avg: INR 1,111.11 | 60.0%
+  Amazon Gift Code
+    Total: INR 10,000.00 | Transactions: 5 | Avg: INR 2,000.00 | 20.0%
+  Amazon Shopping Voucher
+    Total: INR 5,500.00 | Transactions: 2 | Avg: INR 2,750.00 | 11.0%
+  Amazon Fresh
+    Total: INR 4,500.00 | Transactions: 2 | Avg: INR 2,250.00 | 9.0%
+
+TRANSACTION DETAILS:
+  Amazon Fresh:
+     1. 20/07/2025 - INR 2,500.00
+     2. 16/08/2025 - INR 2,000.00
+  Amazon Gift Code:
+     1. 18/07/2025 - INR 5,000.00
+     2. 09/08/2025 - INR 2,000.00
+     3. 09/08/2025 - INR 1,000.00
+     4. 09/08/2025 - INR 1,000.00
+     5. 16/08/2025 - INR 1,000.00
+  Amazon Shopping Voucher:
+     1. 18/07/2025 - INR 5,000.00
+     2. 18/07/2025 - INR   500.00
+  Myntra:
+     1. 18/07/2025 - INR 2,000.00
+     2. 18/07/2025 - INR   500.00
+     3. 18/07/2025 - INR 1,000.00
+     4. 18/07/2025 - INR 1,000.00
+     5. 18/07/2025 - INR 1,000.00
+     6. 18/07/2025 - INR 1,000.00
+     7. 18/07/2025 - INR 1,000.00
+     8. 18/07/2025 - INR 1,000.00
+     9. 18/07/2025 - INR 1,000.00
+    10. 18/07/2025 - INR 1,000.00
+    11. 18/07/2025 - INR 1,000.00
+    12. 18/07/2025 - INR 1,000.00
+    13. 18/07/2025 - INR 1,000.00
+    14. 18/07/2025 - INR 1,000.00
+    15. 18/07/2025 - INR 1,000.00
+    16. 18/07/2025 - INR 1,000.00
+    17. 18/07/2025 - INR 1,000.00
+    18. 18/07/2025 - INR 1,000.00
+    19. 18/07/2025 - INR 1,000.00
+    20. 18/07/2025 - INR 1,000.00
+    21. 18/07/2025 - INR 1,000.00
+    22. 18/07/2025 - INR 1,000.00
+    23. 20/07/2025 - INR 2,500.00
+    24. 20/07/2025 - INR 2,000.00
+    25. 27/07/2025 - INR 1,000.00
+    26. 27/07/2025 - INR 1,000.00
+    27. 27/07/2025 - INR 1,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Myntra accounts for 60.0% of spending (INR 30,000.00)
+  2. Secondary merchant: Amazon Gift Code accounts for 20.0% of spending (INR 10,000.00)
+  3. High-value transactions (INR 5000+): 2 transactions totaling INR 10,000.00
+  4. Top 3 merchants concentration: 91.0% of total spending
+
+========================================================================================================================
+BILLING CYCLE 10: August 2025 17 - September 2025 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 23,500.00
+  Number of Transactions: 13
+  Average Transaction Value: INR 1,807.69
+  Highest Transaction: INR 2,500.00
+  Lowest Transaction: INR 500.00
+
+MERCHANT BREAKDOWN:
+  Amazon Fresh
+    Total: INR 15,000.00 | Transactions: 7 | Avg: INR 2,142.86 | 63.8%
+  Amazon Gift Code
+    Total: INR 6,500.00 | Transactions: 5 | Avg: INR 1,300.00 | 27.7%
+  Swiggy
+    Total: INR 2,000.00 | Transactions: 1 | Avg: INR 2,000.00 | 8.5%
+
+TRANSACTION DETAILS:
+  Amazon Fresh:
+     1. 17/08/2025 - INR 2,000.00
+     2. 08/09/2025 - INR 2,000.00
+     3. 10/09/2025 - INR 2,000.00
+     4. 11/09/2025 - INR 2,000.00
+     5. 11/09/2025 - INR 2,000.00
+     6. 12/09/2025 - INR 2,500.00
+     7. 12/09/2025 - INR 2,500.00
+  Amazon Gift Code:
+     1. 12/09/2025 - INR 1,000.00
+     2. 12/09/2025 - INR 2,000.00
+     3. 12/09/2025 - INR 2,000.00
+     4. 13/09/2025 - INR   500.00
+     5. 13/09/2025 - INR 1,000.00
+  Swiggy:
+     1. 10/09/2025 - INR 2,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Amazon Fresh accounts for 63.8% of spending (INR 15,000.00)
+  2. Secondary merchant: Amazon Gift Code accounts for 27.7% of spending (INR 6,500.00)
+  4. Top 3 merchants concentration: 100.0% of total spending
+
+========================================================================================================================
+BILLING CYCLE 11: September 2025 17 - October 2025 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 40,000.00
+  Number of Transactions: 18
+  Average Transaction Value: INR 2,222.22
+  Highest Transaction: INR 10,000.00
+  Lowest Transaction: INR 250.00
+
+MERCHANT BREAKDOWN:
+  Amazon Fresh
+    Total: INR 32,250.00 | Transactions: 11 | Avg: INR 2,931.82 | 80.6%
+  Amazon Gift Code
+    Total: INR 3,500.00 | Transactions: 3 | Avg: INR 1,166.67 | 8.8%
+  Myntra
+    Total: INR 2,000.00 | Transactions: 1 | Avg: INR 2,000.00 | 5.0%
+  Flipkart
+    Total: INR 1,250.00 | Transactions: 2 | Avg: INR 625.00 | 3.1%
+  Swiggy
+    Total: INR 1,000.00 | Transactions: 1 | Avg: INR 1,000.00 | 2.5%
+
+TRANSACTION DETAILS:
+  Amazon Fresh:
+     1. 21/09/2025 - INR 5,000.00
+     2. 21/09/2025 - INR 5,000.00
+     3. 21/09/2025 - INR 2,000.00
+     4. 21/09/2025 - INR 2,000.00
+     5. 21/09/2025 - INR 2,000.00
+     6. 22/09/2025 - INR 1,000.00
+     7. 23/09/2025 - INR 1,000.00
+     8. 23/09/2025 - INR   250.00
+     9. 28/09/2025 - INR 2,000.00
+    10. 28/09/2025 - INR 2,000.00
+    11. 09/10/2025 - INR 10,000.00
+  Amazon Gift Code:
+     1. 21/09/2025 - INR 2,000.00
+     2. 21/09/2025 - INR 1,000.00
+     3. 21/09/2025 - INR   500.00
+  Flipkart:
+     1. 22/09/2025 - INR 1,000.00
+     2. 22/09/2025 - INR   250.00
+  Myntra:
+     1. 09/10/2025 - INR 2,000.00
+  Swiggy:
+     1. 21/09/2025 - INR 1,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Amazon Fresh accounts for 80.6% of spending (INR 32,250.00)
+  2. Secondary merchant: Amazon Gift Code accounts for 8.8% of spending (INR 3,500.00)
+  3. High-value transactions (INR 5000+): 3 transactions totaling INR 20,000.00
+  4. Top 3 merchants concentration: 94.4% of total spending
+
+========================================================================================================================
+BILLING CYCLE 12: October 2025 17 - November 2025 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 24,750.00
+  Number of Transactions: 15
+  Average Transaction Value: INR 1,650.00
+  Highest Transaction: INR 2,500.00
+  Lowest Transaction: INR 250.00
+
+MERCHANT BREAKDOWN:
+  Amazon Fresh
+    Total: INR 16,500.00 | Transactions: 8 | Avg: INR 2,062.50 | 66.7%
+  Swiggy
+    Total: INR 4,000.00 | Transactions: 2 | Avg: INR 2,000.00 | 16.2%
+  Myntra
+    Total: INR 3,750.00 | Transactions: 3 | Avg: INR 1,250.00 | 15.2%
+  GyFTR Voucher
+    Total: INR 500.00 | Transactions: 2 | Avg: INR 250.00 | 2.0%
+
+TRANSACTION DETAILS:
+  Amazon Fresh:
+     1. 20/10/2025 - INR 2,500.00
+     2. 28/10/2025 - INR 2,000.00
+     3. 29/10/2025 - INR 2,500.00
+     4. 29/10/2025 - INR 2,500.00
+     5. 10/11/2025 - INR 1,000.00
+     6. 10/11/2025 - INR 1,000.00
+     7. 11/11/2025 - INR 2,500.00
+     8. 11/11/2025 - INR 2,500.00
+  GyFTR Voucher:
+     1. 10/11/2025 - INR   250.00
+     2. 10/11/2025 - INR   250.00
+  Myntra:
+     1. 17/10/2025 - INR 2,000.00
+     2. 18/10/2025 - INR   750.00
+     3. 18/10/2025 - INR 1,000.00
+  Swiggy:
+     1. 08/11/2025 - INR 2,000.00
+     2. 08/11/2025 - INR 2,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Amazon Fresh accounts for 66.7% of spending (INR 16,500.00)
+  2. Secondary merchant: Swiggy accounts for 16.2% of spending (INR 4,000.00)
+  4. Top 3 merchants concentration: 98.0% of total spending
+
+========================================================================================================================
+BILLING CYCLE 13: November 2025 17 - December 2025 16
+========================================================================================================================
+
+SUMMARY METRICS:
+  Total Amount Spent: INR 5,000.00
+  Number of Transactions: 1
+  Average Transaction Value: INR 5,000.00
+
+MERCHANT BREAKDOWN:
+  Amazon Gift Code
+    Total: INR 5,000.00 | Transactions: 1 | Avg: INR 5,000.00 | 100.0%
+
+TRANSACTION DETAILS:
+  Amazon Gift Code:
+     1. 17/11/2025 - INR 5,000.00
+
+KEY OBSERVATIONS:
+  1. Primary merchant: Amazon Gift Code accounts for 100.0% of spending (INR 5,000.00)
+  3. High-value transactions (INR 5000+): 1 transactions totaling INR 5,000.00
+  4. Top 3 merchants concentration: 100.0% of total spending
+
+
+========================================================================================================================
+OVERALL ANALYSIS SUMMARY (ENTIRE PERIOD)
+========================================================================================================================
+
+Period: 18 October 2024 to 17 November 2025
+Total Transactions: 238
+Total Amount Spent: INR 460,250.00
+Average per Transaction: INR 1,933.82
+Number of Billing Cycles: 13
+Average per Billing Cycle: INR 35,403.85
+
+TOP 10 MERCHANTS (BY TOTAL SPENDING):
+
+ 1. Amazon Fresh                             | INR   177,750.00 |  85 trans | Avg: INR 2,091.18 |  38.6%
+ 2. Amazon Gift Code                         | INR   101,000.00 |  46 trans | Avg: INR 2,195.65 |  21.9%
+ 3. Myntra                                   | INR    86,750.00 |  42 trans | Avg: INR 2,065.48 |  18.8%
+ 4. Swiggy                                   | INR    46,000.00 |  26 trans | Avg: INR 1,769.23 |  10.0%
+ 5. Amazon Shopping Voucher                  | INR    33,500.00 |  17 trans | Avg: INR 1,970.59 |   7.3%
+ 6. Flipkart                                 | INR    10,250.00 |  14 trans | Avg: INR   732.14 |   2.2%
+ 7. Zomato                                   | INR     4,000.00 |   4 trans | Avg: INR 1,000.00 |   0.9%
+ 8. OLA                                      | INR       500.00 |   2 trans | Avg: INR   250.00 |   0.1%
+ 9. GyFTR Voucher                            | INR       500.00 |   2 trans | Avg: INR   250.00 |   0.1%
+
+SPENDING TRENDS BY CATEGORY:
+
+E-commerce          : INR   322,500.00 (162 trans) -  70.1%
+Food Delivery       : INR    50,000.00 ( 30 trans) -  10.9%
+Fashion             : INR    86,750.00 ( 42 trans) -  18.8%
+Other               : INR     1,000.00 (  4 trans) -   0.2%
+
+BILLING CYCLE TREND ANALYSIS:
+
+Highest spending cycle: June 2025 (INR 80,500.00)
+Lowest spending cycle: December 2024 (INR 5,000.00)
+Average per cycle: INR 35,403.85

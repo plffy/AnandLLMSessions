@@ -1,0 +1,93 @@
+Anand Mohan
+
+
+anand.mohan164@outlook.com
++91-7070265861
+Bengaluru, India
+https://www.linkedin.com/in/plffy/
+
+
+
+------------------------
+Sr. Software Engineer
+
+
+------------------------
+Accomplished engineer with 7+ years designing and scaling distributed global systems for fintech and e-commerce platforms. Expert in cloud-native development, microservices architecture, and leading high-performing teams. Passionate about leveraging AI-enhanced development practices to accelerate delivery and tackle complex engineering challenges.
+
+
+Work Experience
+------------------------
+Senior Software Engineer
+Clear
+07/2023 - Present
+Bengaluru, India
+Achievements/Tasks
+- <b>Led international expansion as lead engineer for Clear E-Invoicing platform</b>, successfully launched in Malaysia processing millions of monthly invoices and currently launching across 10+ countries in EU and MENA regions, architected highly scalable country-agnostic microservices enabling rapid global deployment. 
+- <b>Architected highly scalable and maintainable country-agnostic E-Invoicing microservices</b> enabling rapid global rollouts with single, maintainable codebase to support multiple countries with distinct regulatory requirements. 
+- <b>Developed Clear Global PEPPOL-compliant services</b>, implementing full Access Point functionality to send and receive invoices and related documents across multiple countries; ensured adherence to PEPPOL specifications and enabled Clear’s accreditation as a trusted service provider in diverse regulatory environments. 
+- <b>Re-architected GST interaction services enhancing system reliability and performance</b> improving error tracking capabilities and achieving 70% improvement in processing throughput while reducing system errors from 10% to less than 0.1%. 
+- <b>Established technical leadership practices</b> mentoring 8+ engineers while contributing to cross-team system designs and architectural reviews, driving high software development standards and improving overall code quality across distributed systems. 
+
+
+
+Software Development Engineer
+Amazon
+04/2019 - 03/2023
+Gurugram, India
+Achievements/Tasks
+- <b>Led analysis and re-architecture of a high-traffic vendor experience service</b>, achieving a 78% reduction in latency and enabling global scalability, and developed a real-time data aggregation and storage system that cut user data access time from over 10 days to near real-time. 
+- <b>Built and deployed a secure, serverless full-stack application for Amazon Go</b> using AWS services (S3, CloudFront, Cognito, Lambda), implementing enterprise-grade authentication and authorization frameworks. 
+- <b>Implemented a full CI/CD pipeline and managed infrastructure via Infrastructure as Code</b>, reducing deployment time from two days to one hour and decreasing production incidents by 10%. 
+
+
+
+Software Engineer
+Reliance Jio
+07/2018 - 04/2019
+Achievements/Tasks
+- <b>Developed software automation solutions</b> for a web GUI-based portal, <b>achieving a 70% reduction in execution time </b>and significantly enhancing system eﬃciency. 
+
+
+
+
+
+
+Skills
+------------------------
+-Languages: Java, Python, TypeScript
+-Backend & Architecture: Microservices Architecture, Distributed Systems, RESTful APIs, gRPC, System Design
+-Cloud & Infrastructure: AWS Lambda, EC2, RDS, DynamoDB, S3, CloudFront), Kubernetes, Docker
+-DevOps & CI/CD: Jenkins, GitHub Actions, Terraform, AWS CloudFormation, Infrastructure as Code
+-Databases: MySQL, MongoDB, DynamoDB, DocumentDB, Amazon RDS, Database Design
+-Frameworks & Technologies: Spring Framework, Serverless Architecture, Event-Driven Architecture
+-Leadership: Technical Mentoring, Cross-Team Collaboration, Architectural Planning, System Design Strategy
+
+
+
+Education
+------------------------
+Computer Science & Engineering (BE)
+Birla Institute of Technology, Mesra
+04/2014 - 04/2018
+Courses
+
+
+
+
+
+Awards / Achievements
+------------------------
+Smart India Hackathon Winner
+03/2017 - 04/2017
+Ministry of Education, Govt. of India
+
+
+Cisco Global Cybersecurity Scholarship Program
+04/2018 - 07/2018
+Cisco Systems, Inc.
+
+
+
+
+
