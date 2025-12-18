@@ -6,7 +6,7 @@ Bengaluru, India
 https://www.linkedin.com/in/plffy/
 
 ------------------------
-Staff Software Engineer
+Lead Software Engineer
 ------------------------
 
 Technical leader specializing in architecting and scaling high-throughput distributed systems built for global scale. Proven track record leading engineering teams through complex multi-country platform expansions, designing multi-tenant architectures that scale linearly with market growth, and establishing technical patterns adopted across organizations. Combines deep systems expertise with hands-on leadership to deliver business-critical platforms at scale.
@@ -15,20 +15,20 @@ Technical leader specializing in architecting and scaling high-throughput distri
 Work Experience
 ------------------------
 
-Tech Lead / Senior Software Engineer
+Lead Software Engineer
 Clear
-07/2023 - Present | Bengaluru, India
+09/2023 - Present | Bengaluru, India
 
 Technical Leadership & Architecture
-- Lead a growing team (~5 to ~20 engineers) to architect and deliver Clear's global E-Invoicing platform, processing 100M+ invoices monthly per country at ~2000 RPM, with architecture designed to scale linearly as new markets launch across EU, MEA, and SEA regions.
+- Grew and lead engineering team ~4x (from ~5 to ~20 engineers) while architecting Clear's global E-Invoicing platform, processing 100M+ invoices monthly per country, with architecture designed to scale linearly as new markets launch across EU, MEA, and SEA regions.
 - Designed multi-tenant, country-agnostic microservices architecture enabling multiple countries to operate on shared infrastructure while maintaining regulatory isolation—reducing infrastructure costs and time-to-market for new country launches from months to weeks.
 - Developed rapid country launch framework leveraging LLM-assisted automation, reducing country deployment timeline to under 2 weeks. Successfully executed launches in Belgium, Germany, and UAE using this playbook, with 40+ country rollouts planned.
 - Built PEPPOL-compliant Access Point services for cross-border invoice exchange, enabling Clear's accreditation as a certified provider across multiple international markets.
 
 Platform Innovation & Organizational Impact
 - Created reusable async metrics publishing framework for real-time workflow observability, subsequently adopted by multiple teams across Clear, establishing an organization-wide standard for service monitoring and dashboards.
-- Re-architected GST interaction services, improving processing throughput by 70% and reducing system error rates from 10% to <0.1% through enhanced error tracking, retry mechanisms, and circuit breaker patterns.
-- Established technical leadership practices including architectural review processes, code quality standards, and mentorship programs for 8+ engineers, elevating overall engineering excellence across distributed teams.
+- Re-architected GST orchestration flow handling ~200M+ invoices/month—redesigned async flows and pod allocation, achieving 70% higher throughput with reduced infrastructure costs, eliminating OOM errors and slowness causing timeouts at peak load, reducing failure rates from 10% to <0.1%.
+- Established technical leadership practices including architectural review processes, code quality standards, and mentorship programs for 10+ engineers, elevating overall engineering excellence across distributed teams.
 
 
 Software Development Engineer
@@ -39,8 +39,8 @@ Vendor Inbound Tracking Platform (Lead Engineer)
 - Led design and development of real-time vendor shipment tracking platform, replacing manual processes that took 10+ days with near real-time visibility, enabling faster dispute resolution and improving experience for Amazon's global vendor ecosystem.
 - Architected end-to-end system: event-driven ingestion pipeline (SNS/SQS with EC2 workers), serverless API layer (Lambda + API Gateway), and React frontend via CloudFront.
 - Solved Lambda cold start latency by moving database connection establishment to initialization phase, reducing P99 from 5+ seconds to under 1 second—pattern later reused across other projects including Amazon Go.
-- Selected DocumentDB over DynamoDB after evaluating multiple database options, choosing flexible schema and query patterns to support evolving access requirements.
-- Led internationalization effort expanding the platform to EU regions, collaborating with cross-regional product and engineering teams to standardize data formats and generalize components for multi-region deployment.
+- Evaluated multiple database options (SQL, DynamoDB, DocumentDB) and selected DocumentDB for flexible schema supporting evolving access patterns.
+- Led EU internationalization by solving cross-regional integration challenges, developing region-agnostic components, and executing rollouts with EU teams.
 - Mentored junior engineers on the team, conducting code reviews and guiding architectural decisions.
 
 Amazon Go - Associate Management Platform (Greenfield)
@@ -62,7 +62,7 @@ Technical Skills
 Languages: Java, Python, TypeScript
 Architecture: Distributed Systems, Microservices, Event-Driven, Serverless
 Cloud: AWS (Lambda, EC2, DynamoDB, SQS/SNS, S3, CloudFront), Kubernetes, Docker
-Data: MongoDB, DocumentDB, MySQL, DynamoDB, Database Design
+Databases: MongoDB, DocumentDB, DynamoDB, PostgreSQL, DuckDB, ClickHouse, Database Design
 Infrastructure: Terraform, CloudFormation, CI/CD (Jenkins, GitHub Actions)
 
 

@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anand Mohan - Lead Software Engineer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        @page {
+            size: A4;
+            margin: 0;
+        }
+
+        body {
+            font-family: 'Calibri', 'Segoe UI', Arial, sans-serif;
+            font-size: 10.5pt;
+            line-height: 1.25;
+            color: #333;
+            max-width: 8.5in;
+            margin: 0 auto;
+            padding: 0.3in 0.5in;
+            background: #fff;
+        }
+
+        /* Header */
+        .header {
+            text-align: center;
+            margin-bottom: 10px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #1a5276;
+        }
+
+        .name {
+            font-size: 22pt;
+            font-weight: bold;
+            color: #1a5276;
+            margin-bottom: 1px;
+            letter-spacing: 1px;
+        }
+
+        .title {
+            font-size: 11pt;
+            color: #2874a6;
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        .contact {
+            font-size: 9.5pt;
+            color: #555;
+        }
+
+        .contact a {
+            color: #2874a6;
+            text-decoration: none;
+        }
+
+        .contact span {
+            margin: 0 7px;
+            color: #999;
+        }
+
+        /* Sections */
+        .section {
+            margin-bottom: 6px;
+        }
+
+        .section-title {
+            font-size: 10.5pt;
+            font-weight: bold;
+            color: #1a5276;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 1px solid #d4e6f1;
+            padding-bottom: 1px;
+            margin-bottom: 4px;
+        }
+
+        /* Summary */
+        .summary {
+            font-size: 10pt;
+            color: #444;
+            text-align: justify;
+            line-height: 1.3;
+        }
+
+        /* Experience */
+        .job {
+            margin-bottom: 6px;
+        }
+
+        .job-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 1px;
+        }
+
+        .job-title {
+            font-weight: bold;
+            color: #1a5276;
+            font-size: 10.5pt;
+        }
+
+        .job-date {
+            font-size: 9.5pt;
+            color: #666;
+        }
+
+        .job-company {
+            display: flex;
+            justify-content: space-between;
+            font-size: 10pt;
+            color: #555;
+            margin-bottom: 3px;
+        }
+
+        .job-subtitle {
+            font-size: 9.5pt;
+            font-weight: 600;
+            color: #2874a6;
+            margin-top: 4px;
+            margin-bottom: 2px;
+        }
+
+        ul {
+            margin-left: 14px;
+            margin-bottom: 2px;
+        }
+
+        li {
+            margin-bottom: 2px;
+            text-align: justify;
+            font-size: 10pt;
+        }
+
+        /* Skills */
+        .skills-compact {
+            font-size: 9.5pt;
+            color: #444;
+            line-height: 1.4;
+        }
+
+        .skills-compact strong {
+            color: #1a5276;
+        }
+
+        /* Education */
+        .edu-header {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .edu-degree {
+            font-weight: bold;
+            color: #333;
+            font-size: 10pt;
+        }
+
+        .edu-date {
+            font-size: 9.5pt;
+            color: #666;
+        }
+
+        .edu-school {
+            font-size: 9.5pt;
+            color: #555;
+        }
+
+        /* Keywords for ATS - visually hidden but parseable */
+        .keywords {
+            position: absolute;
+            left: -9999px;
+            font-size: 1px;
+            color: white;
+        }
+
+        /* Print optimization */
+        @media print {
+            body {
+                padding: 0.25in 0.45in;
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+
+            .header {
+                border-bottom-color: #1a5276 !important;
+            }
+
+            .name, .section-title, .job-title, .skill-label {
+                color: #1a5276 !important;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<!-- ATS Keywords (hidden) -->
+<div class="keywords">
+    Staff Software Engineer, Senior Software Engineer, Tech Lead, Distributed Systems, Microservices,
+    AWS, Java, Python, TypeScript, Kubernetes, Docker, System Design, Technical Leadership,
+    E-Invoicing, Fintech, Multi-tenant Architecture, Event-Driven Architecture, Lambda, DynamoDB,
+    MongoDB, DocumentDB, CI/CD, Terraform, CloudFormation, REST API, gRPC, Agile, Scrum
+</div>
+
+<!-- Header -->
+<div class="header">
+    <div class="name">ANAND MOHAN</div>
+    <div class="title">Lead Software Engineer</div>
+    <div class="contact">
+        <a href="mailto:anand.mohan164@outlook.com">anand.mohan164@outlook.com</a>
+        <span>|</span>
+        +91-7070265861
+        <span>|</span>
+        Bengaluru, India
+        <span>|</span>
+        <a href="https://www.linkedin.com/in/plffy/">LinkedIn</a>
+    </div>
+</div>
+
+<!-- Summary -->
+<div class="section">
+    <div class="section-title">Summary</div>
+    <div class="summary">
+        Technical leader specializing in architecting and scaling high-throughput distributed systems built for global scale. Proven track record leading engineering teams through complex multi-country platform expansions, designing multi-tenant architectures that scale linearly with market growth, and establishing technical patterns adopted across organizations.
+    </div>
+</div>
+
+<!-- Experience -->
+<div class="section">
+    <div class="section-title">Professional Experience</div>
+
+    <!-- Clear -->
+    <div class="job">
+        <div class="job-header">
+            <span class="job-title">Lead Software Engineer</span>
+            <span class="job-date">Sep 2023 – Present</span>
+        </div>
+        <div class="job-company">
+            <span>Clear</span>
+            <span>Bengaluru, India</span>
+        </div>
+
+        <div class="job-subtitle">Technical Leadership & Architecture</div>
+        <ul>
+            <li>Grew and lead engineering team ~4x (from ~5 to ~20 engineers) while architecting global E-Invoicing platform, processing <strong>100M+ invoices monthly per country</strong>, with architecture designed to scale linearly across EU, MEA, and SEA regions.</li>
+            <li>Designed <strong>multi-tenant, country-agnostic microservices architecture</strong> enabling multiple countries on shared infrastructure while maintaining regulatory isolation—reducing infrastructure costs and time-to-market from months to weeks.</li>
+            <li>Developed rapid country launch framework leveraging <strong>LLM-assisted automation</strong>, reducing country deployment timeline to under 2 weeks. Successfully executed launches in Belgium, Germany, and UAE with 40+ country rollouts planned.</li>
+        </ul>
+
+        <div class="job-subtitle">Platform Innovation & Organizational Impact</div>
+        <ul>
+            <li>Created reusable async metrics publishing framework for real-time observability, <strong>adopted by multiple teams across Clear</strong> as organization-wide standard for service monitoring.</li>
+            <li>Re-architected GST orchestration flow handling <strong>~200M+ invoices/month</strong>—redesigned async flows and pod allocation, achieving <strong>70% higher throughput with reduced infrastructure costs</strong>, eliminating OOM errors and slowness causing timeouts at peak load, reducing failure rates from 10% to &lt;0.1%.</li>
+            <li>Established architectural review processes, code quality standards, and mentorship programs for 10+ engineers.</li>
+        </ul>
+    </div>
+
+    <!-- Amazon -->
+    <div class="job">
+        <div class="job-header">
+            <span class="job-title">Software Development Engineer</span>
+            <span class="job-date">Apr 2019 – Mar 2023</span>
+        </div>
+        <div class="job-company">
+            <span>Amazon</span>
+            <span>Gurugram, India</span>
+        </div>
+
+        <div class="job-subtitle">Vendor Inbound Tracking Platform (Lead Engineer)</div>
+        <ul>
+            <li>Led design of real-time vendor shipment tracking platform, replacing 10+ day manual processes with near real-time visibility for Amazon's global vendor ecosystem.</li>
+            <li>Architected event-driven pipeline (SNS/SQS, EC2 workers) with serverless API layer (Lambda, API Gateway). <strong>Optimized Lambda cold start: P99 latency from 5s to &lt;1s</strong>—pattern reused across projects.</li>
+            <li>Evaluated multiple database options (SQL, DynamoDB, DocumentDB) and selected DocumentDB for flexible schema supporting evolving access patterns.</li>
+            <li>Led EU internationalization by solving cross-regional integration challenges, developing region-agnostic components, and executing rollouts with EU teams.</li>
+        </ul>
+
+        <div class="job-subtitle">Amazon Go – Associate Management Platform (Greenfield)</div>
+        <ul>
+            <li>Designed end-to-end associate management platform from scratch: intervention portal, performance tracking with randomized assessments, and personalized training assignments.</li>
+            <li>Built serverless full-stack (S3, CloudFront, Cognito, Lambda). CI/CD pipeline reduced deployments from 2 days to 1 hour.</li>
+        </ul>
+    </div>
+
+    <!-- Jio -->
+    <div class="job">
+        <div class="job-header">
+            <span class="job-title">Software Engineer</span>
+            <span class="job-date">Jul 2018 – Apr 2019</span>
+        </div>
+        <div class="job-company">
+            <span>Reliance Jio</span>
+            <span>India</span>
+        </div>
+        <ul>
+            <li>Developed automation framework for web-based portal operations, achieving <strong>70% reduction in execution time</strong>.</li>
+        </ul>
+    </div>
+</div>
+
+<!-- Skills -->
+<div class="section">
+    <div class="section-title">Technical Skills</div>
+    <div class="skills-compact">
+        <strong>Languages:</strong> Java, Python, TypeScript &nbsp;|&nbsp;
+        <strong>Architecture:</strong> Distributed Systems, Microservices, Event-Driven, Serverless &nbsp;|&nbsp;
+        <strong>Cloud:</strong> AWS (Lambda, EC2, DynamoDB, SQS/SNS, S3), Kubernetes, Docker &nbsp;|&nbsp;
+        <strong>Databases:</strong> MongoDB, DocumentDB, DynamoDB, PostgreSQL, DuckDB, ClickHouse &nbsp;|&nbsp;
+        <strong>Infrastructure:</strong> Terraform, AWS CFN, CI/CD (Jenkins, GitHub Actions)
+    </div>
+</div>
+
+<!-- Education -->
+<div class="section">
+    <div class="section-title">Education</div>
+    <div class="edu-header">
+        <span class="edu-degree">B.E. Computer Science & Engineering</span>
+        <span class="edu-date">2014 – 2018</span>
+    </div>
+    <div class="edu-school">Birla Institute of Technology, Mesra</div>
+</div>
+
+</body>
+</html>
