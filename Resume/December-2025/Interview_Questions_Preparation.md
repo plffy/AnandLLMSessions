@@ -4,6 +4,209 @@ Based on your resume for Staff/Senior Engineer roles at LinkedIn, Uber, and simi
 
 ---
 
+## TOP 15 MUST-PREPARE QUESTIONS
+
+**These are the questions most likely to be asked and most impactful for your candidacy. Have polished, detailed answers ready.**
+
+---
+
+### 1. Walk me through the architecture of Clear's E-Invoicing platform.
+**Why they ask**: Tests your ability to explain complex systems clearly.
+**What to cover**:
+- High-level: Multi-tenant, country-agnostic microservices
+- Data flow: Invoice ingestion → validation → compliance processing → delivery
+- Scale: 100M+/country, ~2000 RPM
+- Key components: PEPPOL Access Point, GST services, metrics framework
+**Time**: Be ready for 2-min overview AND 15-min deep dive
+
+---
+
+### 2. How did you design the multi-tenant architecture to support multiple countries on shared infrastructure?
+**Why they ask**: Core architectural decision, shows system design depth.
+**What to cover**:
+- Why multi-tenant (cost, operational efficiency)
+- How you isolate data between countries
+- How you handle regulatory differences
+- How you deploy updates
+- Trade-offs vs. single-tenant per country
+**Tip**: Draw the architecture if whiteboard available
+
+---
+
+### 3. Explain how your LLM-assisted automation reduces country launch time to 2 weeks.
+**Why they ask**: Unique differentiator, shows innovation. They WILL probe deeply.
+**What to cover**:
+- What specific tasks LLM automates (config generation? document parsing? test cases?)
+- What model you use and why
+- How you validate LLM outputs
+- Error rates and human oversight
+- Why LLM vs. traditional automation
+- Example: Walk through Belgium or UAE launch
+**Warning**: If you can't explain details, it looks like buzzword padding
+
+---
+
+### 4. Tell me about the Lambda cold start optimization. How did you identify and solve it?
+**Why they ask**: Classic performance optimization story, shows debugging skills.
+**What to cover**:
+- How you identified cold start was the issue (metrics, profiling)
+- Explain Lambda lifecycle (init phase vs. handler phase)
+- Your solution: Move DB connection to init phase
+- Results: P99 from 5s to <1s
+- How you measured improvement
+- How you applied this to Amazon Go (pattern reuse)
+**Tip**: This is a "tell me about a technical challenge" story - practice the narrative
+
+---
+
+### 5. Why did you choose DocumentDB over DynamoDB for the Vendor Inbound platform?
+**Why they ask**: Tests decision-making process, not just the decision.
+**What to cover**:
+- Requirements: Flexible schema, evolving access patterns
+- DynamoDB limitations: LSI/GSI limits, query flexibility
+- Why not SQL: Expected schema changes
+- DocumentDB advantages for your use case
+- Trade-offs you accepted (operational complexity, cost)
+- What you'd do differently with hindsight
+**Tip**: Show you evaluated options systematically
+
+---
+
+### 6. How did you scale the team from 5 to 20 engineers?
+**Why they ask**: Leadership signal, critical for Staff level.
+**What to cover**:
+- Timeline of growth
+- Hiring: How you identified needs, interview process
+- Onboarding: How you ramped new engineers
+- Processes: What you introduced as team grew (code reviews, design docs, on-call)
+- Culture: How you maintained quality and speed
+- Challenges: What was hardest, how you solved it
+**Tip**: Have specific examples, not generic statements
+
+---
+
+### 7. Describe a significant production incident and how you handled it.
+**Why they ask**: Tests incident response, ownership, learning.
+**What to cover**:
+- Context: What happened, impact
+- Detection: How you found out
+- Response: Immediate actions, who was involved
+- Root cause: How you identified it
+- Fix: Short-term and long-term
+- Prevention: What you changed to prevent recurrence
+**Tip**: Pick an incident where YOU drove the resolution
+
+---
+
+### 8. How do you handle regulatory differences between countries in your e-invoicing platform?
+**Why they ask**: Domain complexity, shows you understand the business.
+**What to cover**:
+- Examples of regulatory differences (Malaysia vs. Germany vs. UAE)
+- How business logic is isolated/configurable
+- How you test country-specific flows
+- How you stay updated on regulatory changes
+- Configuration model for adding new countries
+**Tip**: Have 2-3 specific regulatory examples ready
+
+---
+
+### 9. What's your approach to making architectural decisions in a team?
+**Why they ask**: Tests collaboration, influence, decision-making process.
+**What to cover**:
+- How you gather requirements and constraints
+- How you evaluate options (POCs, benchmarks, trade-off analysis)
+- How you document decisions (ADRs, design docs)
+- How you get buy-in from stakeholders
+- How you handle disagreements
+- Example: Multi-tenant decision at Clear
+**Tip**: Show you're collaborative, not dictatorial
+
+---
+
+### 10. Tell me about the metrics framework that got adopted by other teams.
+**Why they ask**: Org-wide impact, force multiplication - key for Staff level.
+**What to cover**:
+- Problem you were solving
+- Why you built it (vs. existing solutions)
+- Technical design (async publishing, real-time dashboards)
+- How other teams discovered and adopted it
+- What you did to make it adoptable (docs, support, APIs)
+- Current usage across Clear
+**Tip**: This is your best "influence beyond immediate team" story
+
+---
+
+### 11. How do you balance technical debt with feature delivery?
+**Why they ask**: Tests prioritization, strategic thinking.
+**What to cover**:
+- Your framework for evaluating tech debt
+- How you quantify impact of tech debt
+- How you communicate tech debt to stakeholders
+- Example: GST re-architecture - when and why you prioritized it
+- How you prevent accumulating debt (code reviews, standards)
+**Tip**: Don't say "we never take on tech debt" - that's unrealistic
+
+---
+
+### 12. Walk me through the Vendor Inbound event-driven pipeline architecture.
+**Why they ask**: Tests distributed systems knowledge.
+**What to cover**:
+- Why event-driven (decoupling, scale, resilience)
+- Components: SNS → SQS → EC2 workers → DocumentDB
+- How you handle failures (exponential backoff, DLQ)
+- How you handle duplicates
+- How you monitor the pipeline
+- How you handle backpressure
+**Tip**: Be ready to discuss at-least-once vs. exactly-once semantics
+
+---
+
+### 13. What would you do differently if you were to rebuild the E-Invoicing platform from scratch?
+**Why they ask**: Tests self-awareness, learning, architectural maturity.
+**What to cover**:
+- Be honest about limitations of current design
+- Specific things you'd change (with reasoning)
+- What you got right that you'd keep
+- How your thinking has evolved
+**Tip**: Don't say "nothing" - that shows lack of reflection
+
+---
+
+### 14. How do you mentor engineers? Give a specific example.
+**Why they ask**: Tests leadership, people development.
+**What to cover**:
+- Your mentorship philosophy
+- Specific engineer you mentored (anonymized)
+- What they needed to grow
+- What you did (1:1s, code reviews, stretch assignments)
+- Outcome (promotion, skill growth, independence)
+**Tip**: Show you invest in people, not just code
+
+---
+
+### 15. Why should we hire you for a Staff role instead of a Senior role?
+**Why they ask**: Directly tests your self-assessment and staff readiness.
+**What to cover**:
+- Scope: You operate beyond your immediate team (metrics framework, architectural patterns)
+- Scale: You've built for massive scale (100M+/country, 40+ countries)
+- Leadership: You've scaled a team 4x, mentored 8+ engineers
+- Influence: Your patterns are adopted org-wide
+- Innovation: LLM automation shows forward thinking
+- Ambiguity: You've defined problems (country launch framework), not just solved them
+**Tip**: Be confident but not arrogant. Acknowledge you're still growing.
+
+---
+
+## How to Use This List
+
+1. **Write out answers** - Don't just think about them, write 1-page answers for each
+2. **Practice out loud** - Saying it is different from thinking it
+3. **Time yourself** - 2 min for overview, 10-15 min for deep dive
+4. **Get feedback** - Practice with a friend or mock interviewer
+5. **Prepare follow-ups** - For each answer, anticipate 3 follow-up questions
+
+---
+
 ## Table of Contents
 1. [General & Behavioral](#1-general--behavioral)
 2. [Clear - E-Invoicing Platform](#2-clear---e-invoicing-platform)
